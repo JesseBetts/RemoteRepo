@@ -24,7 +24,4 @@ while True:
             min = rnd
         elif hint == "younger":
             max = rnd
-    #     else:
-    #         print("Invalid input try again")
-    # else: 
-    #     print("Invalid input try again")        
+      
