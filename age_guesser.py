@@ -27,6 +27,4 @@ while True:
     #     else:
     #         print("Invalid input try again")
     # else: 
-    #     print("Invalid input try again")
-    # :)       
-        
+    #     print("Invalid input try again")        
