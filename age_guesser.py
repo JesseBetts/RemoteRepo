@@ -24,4 +24,4 @@ while True:
             min = rnd
         elif hint == "younger":
             max = rnd
-      
+print("end")
