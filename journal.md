@@ -6,3 +6,4 @@ Date: 1/21/2025 -Subject Team Dynamics: Today I learned about how teams function
  real world. I also learned about the 8 important rules of being in a team. My favorite
  rule was think of a solution before you bring up a problem to a supervisor.
  
+ Date: 1/28/2025 -Subject Team Work!!: Today I learned about the importance of working as a team. The image of the swing in the tree really helped me understand that everybody has a different understanding what the final project should look like so communication is key to get the results you want. 
