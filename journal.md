@@ -7,3 +7,8 @@ Date: 1/21/2025 -Subject Team Dynamics: Today I learned about how teams function
  rule was think of a solution before you bring up a problem to a supervisor.
  
  Date: 1/28/2025 -Subject Team Work!!: Today I learned about the importance of working as a team. The image of the swing in the tree really helped me understand that everybody has a different understanding what the final project should look like so communication is key to get the results you want. 
+
+Date: 2/4/2025 - Subject Product Design:
+A lot of work goes into making a product. If you are going to implement something you better be sure what you are doing. Don't be like the guy who built his deck over the railroad tracks.
+Synchronous: happening at the same time
+Asynchronous: not happening at the same time
