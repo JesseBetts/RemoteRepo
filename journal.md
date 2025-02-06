@@ -12,3 +12,7 @@ Date: 2/4/2025 - Subject Product Design:
 A lot of work goes into making a product. If you are going to implement something you better be sure what you are doing. Don't be like the guy who built his deck over the railroad tracks.
 Synchronous: happening at the same time
 Asynchronous: not happening at the same time
+
+Date: 2/6/2025 - Diagraming:
+There are 2 kinds of diagrams. Flow digrams and component diagrams. I can use draw.io to 
+draw and make diagrams. Diagrams will be a tremendous help. 
