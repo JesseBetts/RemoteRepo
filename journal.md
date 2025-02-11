@@ -16,3 +16,8 @@ Asynchronous: not happening at the same time
 Date: 2/6/2025 - Diagraming:
 There are 2 kinds of diagrams. Flow digrams and component diagrams. I can use draw.io to 
 draw and make diagrams. Diagrams will be a tremendous help. 
+
+Date: 2/11/25 - PRESENTATION
+Audience, goal, design principles. Large things are emphasized. Color is important as well as italics. Don't overwelm 
+the audience with infortion. The presentor has power to control where the audience looks. Colors can be used to 
+influence emotions. 7 +/-2 elements at a time.
