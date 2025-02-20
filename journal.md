@@ -21,3 +21,14 @@ Date: 2/11/25 - PRESENTATION
 Audience, goal, design principles. Large things are emphasized. Color is important as well as italics. Don't overwelm 
 the audience with infortion. The presentor has power to control where the audience looks. Colors can be used to 
 influence emotions. 7 +/-2 elements at a time.
+
+Date: 2/20/25 - merge conflicts
+Working with people can cause problems when trying to merge files. 
+get checkout -b <branch name>
+edit
+git add .
+git commit -m ""
+git push <branch name>
+pull request
+resolve merge conflicts 
+merge to main on web
