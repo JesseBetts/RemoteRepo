@@ -32,3 +32,10 @@ git push <branch name>
 pull request
 resolve merge conflicts 
 merge to main on web
+
+Date: 2/25/25 - Implementation
+    Consider how many people are working together. Then evaluate dependencies,
+    differeneces of opinion, differences in engagement and levels of capability,
+    personal issues, and office space. Being on a software engineering team is 
+    much more than simply coding. You will work as a team and have to find a way
+    to work productively with other people. -find a job that works for YOU!-
